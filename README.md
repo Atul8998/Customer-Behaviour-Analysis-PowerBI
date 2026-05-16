@@ -1,3 +1,14 @@
+# 📷 Dashboard Preview
+
+## Dashboard 1
+![Dashboard 1](dashboard1.png)
+
+## Dashboard 2
+![Dashboard 2](dashboard2.png)
+
+---
+
+
 # 📊 Customer Behaviour Analysis | Power BI Dashboard
 
 ## 🚀 Project Overview
@@ -80,15 +91,6 @@ Built interactive dashboards to analyze:
 
 ---
 
-# 📷 Dashboard Preview
-
-## Dashboard 1
-![Dashboard 1](dashboard1.png)
-
-## Dashboard 2
-![Dashboard 2](dashboard2.png)
-
----
 
 # 📁 Repository Structure
 
